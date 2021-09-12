@@ -1,4 +1,4 @@
-# The lost king
+# Star Jaws
 ## General info
 StarJaws is a shooter that was created for the [JS13K](http://js13kgames.com/) game jam. <br> Play the game for yourself: [github link](https://guineapigbridge.github.io/Star-Jaws/),[JS13K link]()
 ## features
